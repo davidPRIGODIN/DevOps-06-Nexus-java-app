@@ -23,7 +23,7 @@ Configure Gradle to connect to your Nexus Repository by setting the following:
 * **Nexus Repository URL:** Set the repository URL in `build.gradle`.
 * **Nexus credentials:** Set your Nexus username and password in `gradle.properties`.
 
-## Build and Publish the JAR
+## Build and Publish the JAR to Nexus
 
 ```bash
 gradle build
